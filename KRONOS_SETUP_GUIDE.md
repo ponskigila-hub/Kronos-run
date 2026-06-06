@@ -83,7 +83,7 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 python -m venv kronos_env
 
 # Activate it
-kronos_env\Scripts\activate.bat
+source kronos_env/Scripts/activate
 ```
 
 ### Step 3: Install Dependencies
