@@ -1,3 +1,6 @@
+## Repositories Kronos by shiyu-coder
+https://github.com/shiyu-coder/Kronos 
+
 ## Repositories COntents
 KRONOS_SETUP_GUIDE.md = Complete step-by-step guide to run Kronos financial prediction model
 
