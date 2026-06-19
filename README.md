@@ -7,3 +7,8 @@ KRONOS_SETUP_GUIDE.md = Complete step-by-step guide to run Kronos financial pred
 KRONOS_QUICK_REFERENCE.md = Quick reference cheat sheet for running Kronos
 
 KRONOS_DATA_PREPARATION.md = Kronos data preparation and troubleshooting guide
+
+csvpredict.py = kode predict dengan data csv
+
+## Changes
+Last Updated: 19 June 2026
